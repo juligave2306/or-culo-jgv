@@ -12,8 +12,8 @@ const titulos = [
 ];
 
 const frases = [
-  "Te alimentas de plantas, frutas, hojas y flores. Vives en bosques de climas cálidos y prefieres la tierra que el agua.",
-  "Eres pequeña pero tu extravagancia no pasa desapercibida. Vives en bosques húmedos y lluviosos y tienes veneno en la piel.",
+  "Te ves tierna, pero eres peligrosa,la unión es tu poder:confía en tu círculo más cercano.",
+  "Nada con  el ritmo de tu corazón, est.",
 ];
 
 // Trae los elementos del HTML que tienen ese id
