@@ -1,12 +1,14 @@
 // Crear las listas de imágenes, títulos y frases
 const imagenes = [
-  "https://www.postposmo.com/wp-content/uploads/2020/09/Especies-end%C3%A9micas-de-colombia-3.jpg",
-  "https://www.postposmo.com/wp-content/uploads/2020/09/Especies-end%C3%A9micas-de-colombia-4.jpg",
+  "https://www.postposmo.com/wp-content/uploads/2025/08/Diversidad-acuatica-conoce-a-los-animales-que-nadan-en-nuestros-mares-1.jpg.webp",
+  "https://www.postposmo.com/wp-content/uploads/2025/08/Delfines-e1755072886737.jpg",
 ];
 
 const titulos = [
-  "Tortuga morrocoy",
-  "Ranita venenosa",
+  "Orca/ballena asesina",
+  "Delfín",
+  "caballito de mar",
+  "pulpo"
 ];
 
 const frases = [
@@ -25,9 +27,9 @@ function numeroRandom(min, max) {
   return Math.ceil(Math.random() * (max - min) + min - 1);
 }
 
-function generarPrediccion() {
+function que animal marino eres() {
   // Para elegir la misma posición en todas las listas, generar un solo número aleatorio
-  const indice = numeroRandom(0, frases.length); // 0, 1, 2, 3
+  const indice = numeroRandom(0, frases.lenght); // 0, 1, 2, 3, 4  
 
   // Reemplaza el texto del elemento 'titulo' por un título de la lista de títulos elegido aleatoriamente
   titulo.innerText = titulos[indice]; // Entre los [] se pasa el número aleatorio generado arriba
