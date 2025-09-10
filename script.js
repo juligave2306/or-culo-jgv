@@ -4,20 +4,23 @@ const imagenes = [
   "https://www.postposmo.com/wp-content/uploads/2025/08/Delfines-e1755072886737.jpg",
     "https://www.postposmo.com/wp-content/uploads/2025/08/Caballito-de-mar-scaled-e1755072865180.jpg",
   "https://www.postposmo.com/wp-content/uploads/2022/05/pulpo.jpg.webp",
+  "https://www.postposmo.com/wp-content/uploads/2020/05/foca-1-1.jpg",
 ];
 
 const titulos = [
   "Orca/ballena asesina",
   "Delfín",
   "caballito de mar",
-  "pulpo"
+  "pulpo",
+  "foca",
 ];
 
 const frases = [
-  "Te ves tierna, pero eres peligrosa,la unión es tu poder:confía en tu círculo más cercano.",
-  "Nada con  el ritmo de tu corazón, estás llena de alegría, comunicación y armonía.",
-  "Aférrate  a tu calma y estabilidad eso mantiene en armonìa tu propio ritmo vital.",
-  "Transforma tu entorno con creatividad y fluidez; tu inteligencia te guía a través de múltiples caminos.",
+  "Te ves tierna, pero eres peligrosa, eres lìder de nturaleza pero te cuesta confiar y la unión es tu poder:confía en tu círculo más cercano.",
+  "Eres muy inteligente, tratas de sobresalir en lo que haces y casi siempre lo logras, pero tienes el ego muy grande. Nada con  el ritmo de tu corazón, estás llena de alegría, comunicación y armonía.",
+  "El romántico del mar, te gusta el amor bonito, los abrazos largos y las relaciones largas.Aférrate  a tu calma y estabilidad eso mantiene en armonìa tu propio ritmo vital.",
+  " Si te sale el pulpo, signfica que tienes más problemas que brazos (y eso ya es mucho decir), muy productiva haciendo mil cosas a la vez.Transforma tu entorno con creatividad y fluidez; tu inteligencia te guía a través de múltiples caminos.",
+  "Eres la amiga ruidosa del mar, Te emocionas fàcil, celebras todo con aplausos y risas fuertes y siempre encuentras la forma de llamar la atenciòn con tu ternura, y al mismo tiemnpo eres muy perezoso, amas dormir."
 ];
 
 
