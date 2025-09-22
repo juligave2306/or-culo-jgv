@@ -1,6 +1,6 @@
 // Crear las listas de imágenes, títulos y frases
 const imagenes = [
-  "https://www.postposmo.com/wp-content/uploads/2025/08/Diversidad-acuatica-conoce-a-los-animales-que-nadan-en-nuestros-mares-1.jpg.webp",
+  "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTSXfHq19jQJFg7sF16elOZYcDbJCk1fD9lq6oVKOJ3WBB5IcWRKhr7hGRplpAuS6fAqDaiZL4EYUgIHQnYS-hOrOEmWVSgN-WYXmW28FCVOKt-KkQi7mvtIPYF_9pxiRVGUOa6lTj5Qs/s1600/GranoleriaAguaPatos001a.jpg,
   "https://www.postposmo.com/wp-content/uploads/2025/08/Delfines-e1755072886737.jpg",
     "https://www.postposmo.com/wp-content/uploads/2025/08/Caballito-de-mar-scaled-e1755072865180.jpg",
   "https://www.postposmo.com/wp-content/uploads/2022/05/pulpo.jpg.webp",
